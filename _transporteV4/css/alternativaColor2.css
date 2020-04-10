@@ -1,0 +1,17 @@
+body{
+  background: rgb(124, 182, 255)!important;
+  /* background: rgb(123, 148, 179)!important; */
+  font-family: 'Roboto', sans-serif;
+}
+
+#destinos, #historia{
+  background-color:rgb(124, 182, 255)!important;
+}
+
+div.servicio p{
+    color:white;
+}
+
+div#infoContacto, div#infoContacto h2, #contacto p, #contacto h2, div.separador h2, p.textoServicio{
+  color:black;
+}

@@ -1,0 +1,67 @@
+body{
+  background: #e2e2e2;
+  font-family: 'Roboto', sans-serif;
+}
+
+p.textoServicio{
+  color:#131010;
+}
+
+i {
+  color:grey;
+}
+
+div.separador h2{
+  color: #08293E;
+}
+
+#infoContacto i{
+  color:#710303;
+}
+div.textoNosotro h2 span{
+ color:#710303;
+}
+
+div.textoNosotro h2 i{
+ color:#710303;
+}
+
+#destinos h2{
+    color: #08293E;
+}
+
+#destinos h2 i#icon1{
+    color: #08293E;
+}
+
+#destinos h2 i#icon2{
+  color: #710303;
+
+}
+
+
+
+div.textoNosotro p{
+ color:#221717;
+}
+
+div.separador i{
+  color: #08293E;
+}
+
+div.servicio p{
+    /* color: #de3333; */
+    color:white;
+}
+
+div#infoContacto, div#infoContacto h2, #contacto p, #contacto h2{
+  color:black;
+}
+
+#presupuesto h2, #presupuesto p, #presupuesto label,  #contacto label{
+    /* color: #614d4d; */
+    color: #131010;
+
+    text-align: center;
+    margin: 0;
+}
